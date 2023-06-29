@@ -27,12 +27,12 @@ const Navbar = () => {
 	return (
 		<div>
 			<section className="text-white bg-stone-900 text-center text-xs py-2">
-				we believe in change, we believe in growth, we believe in us, we believe in youth.
+				🚧 This Project is under construction 🚧 Finished version will be availabel soon. Stay tuned. 🙂 
 			</section>
 			<nav className="container flex justify-between items-center py-4 sm:px-0 px-3">
 				<div className='flex items-center lg:gap-12 gap-6'>
 					<Link href={'/'} className="font-bold text-lg">
-						PETALITES
+						ASTRO
 					</Link>
 					<ul className="sm:flex lg:gap-12 gap-6 items-center hidden">
 						<li>
